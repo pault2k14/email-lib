@@ -1,0 +1,16 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "This email library allows emails to be sent using AWS SES",
+  "main": "email.js",
+  "scripts": {},
+  "dependencies": {
+    "async": "^2.6.0",
+    "aws-sdk": "latest"
+  },
+  "author": "Paul Thompson",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "sinon-chai": "^3.0.0"
+  }
+}
